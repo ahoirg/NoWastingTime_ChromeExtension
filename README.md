@@ -2,6 +2,8 @@
 
 No Wasting Time is a Chrome Extension that blocks some social media and streaming web pages
 
+[Chrome Extension Link](https://chromewebstore.google.com/detail/kfnmdoehgphnklhenncooncbnbimhngh)
+
 ---
 
 <img src="https://github.com/ahoirg/NoWastingTime_ChromeExtension/assets/17729246/06924be4-2683-41e6-8893-0e55a6dc9654" width="790" height="790">
