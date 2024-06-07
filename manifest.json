@@ -9,7 +9,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://eksisozluk.com/*", "*://www.instagram.com/*", "*://www.youtube.com/*", "*://twitter.com/*", "*://www.twitch.tv/*"],
+      "matches": ["*://eksisozluk.com/*", "*://www.instagram.com/*", "*://www.youtube.com/*", "*://twitter.com/*", "*://www.twitch.tv/*","*lichess.org*", "*://www.x.com/*"],
       "js": ["content.js"]
     }
   ]
