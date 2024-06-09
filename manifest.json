@@ -1,15 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "DERS CALIS",
+  "name": "Web Site Engelleyici",
   "version": "1.1",
-  "description": "UNUTMA DERSI GECERSEN RAHATLAYACAKSIN!",
+  "description": "Popüler web siteleri engeller. Kulllanıcın mesajını ekranda gösterir.",
   "permissions": ["storage"],
   "action": {
     "default_popup": "popup.html"
   },
   "content_scripts": [
     {
-      "matches": ["*://eksisozluk.com/*", "*://www.instagram.com/*", "*://www.youtube.com/*", "*://twitter.com/*", "*://www.twitch.tv/*","*://lichess.org*", "*://www.x.com/*"],
+      "matches": ["*://eksisozluk.com/*", "*://www.instagram.com/*", "*://www.youtube.com/*", "*://twitter.com/*", "*://www.twitch.tv/*", "*://lichess.org/*", "*://x.com/*"],
       "js": ["content.js"]
     }
   ]
